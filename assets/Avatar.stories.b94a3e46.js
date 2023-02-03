@@ -1,0 +1,2 @@
+import{A as t}from"./index.19c4e857.js";import"./index.ef4be36f.js";import"./iframe.21d6329c.js";import"./index.e1ee8ae2.js";import"./jsx-runtime.b75bb467.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/dev-Paulo.png",alt:"Paulo Renato"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{c as Primary,e as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.b94a3e46.js.map
