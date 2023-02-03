@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@dev-paulo-design-system/tokens",
   "version": "1.0.0",
   "description": "- [] Text\r - [] Heading\r - [] Box\r - [] Button\r - [] TextInput\r - [] TextArea\r - [] Checkbox\r - [] Avatar\r - [] MultiStep",
   "main": "./dist/index.js",

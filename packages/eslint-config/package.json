@@ -1,6 +1,6 @@
 
 {
-  "name": "@ignite-ui/eslint-config",
+  "name": "@dev-paulo-design-system/eslint-config",
   "version": "1.0.0",
   "license": "MIT",
   "private": true,
